@@ -8,4 +8,4 @@ January/∆
     <ellipse rx="11" ry="4.2" transform="rotate(60)"/>
     <ellipse rx="11" ry="4.2" transform="rotate(120)"/>
   </g>
-</svg>
+</svg>2ef518a8f16d8f623dcbdae12b6a256aede6c28d
